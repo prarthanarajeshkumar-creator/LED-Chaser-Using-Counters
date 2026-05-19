@@ -16,3 +16,10 @@ This project demonstrates LED chasing patterns using:
 - Sequential LED pattern
 - Ring counter operation
 - Johnson counter operation
+- 
+## Technologies Used
+- Digital Electronics
+- Sequential Logic
+- Ring Counter
+- Johnson Counter
+- 555 Timer IC
